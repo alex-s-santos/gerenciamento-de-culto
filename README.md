@@ -18,7 +18,7 @@
 
 <strong>Tecnologias usadas:</strong> 
 <ul>
-    <li>![Alt text](image-1.png)</li>
+    <li><img src="image-1"></li>
     <li>![Alt text](image-2.png)</li>
     <li>![Alt text](image-3.png)</li>
 </ul>
