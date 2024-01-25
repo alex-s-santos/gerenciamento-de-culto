@@ -25,7 +25,7 @@
 
 <p>
 <strong>Colaboradores: </strong> <br>
-<img src="https://avatars.githubusercontent.com/u/156544426?s=400&u=94c2bd27f0b97d90343bc6318fd8cc0ae6a51883&v=4" align="left" width="50px">
+<img src="https://avatars.githubusercontent.com/u/156544426?s=400&u=94c2bd27f0b97d90343bc6318fd8cc0ae6a51883&v=4" align="left" width="100px">
 
 <p>
 <ul>
