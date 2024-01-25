@@ -18,15 +18,15 @@
 
 <strong>Tecnologias usadas:</strong> 
 <ul>
-    <li><img src="image-1.png" alt="logo HTML" width="20px"></li>
-    <li><img src="image-2.png" alt="logo CSS" width="20px"></li>
-    <li><img src="image-3.png" alt="logo JS" width="20px"></li>
+    <li><img src="./images/image-1.png" alt="logo HTML" width="20px"></li>
+    <li><img src="./images/image-2.png" alt="logo CSS" width="20px"></li>
+    <li><img src="./images/image-3.png" alt="logo JS" width="20px"></li>
 </ul>
 </p>
 
 <p>
 <strong>Colaboradores: </strong> <br>
-<img src="https://avatars.githubusercontent.com/u/156544426?s=400&u=94c2bd27f0b97d90343bc6318fd8cc0ae6a51883&v=4" align="left" width="50px">
+<img src="https://avatars.githubusercontent.com/u/156544426?s=400&u=94c2bd27f0b97d90343bc6318fd8cc0ae6a51883&v=4" align="left" width="100px">
 
 <p>
 <ul>
