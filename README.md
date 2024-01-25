@@ -18,8 +18,8 @@
 
 <strong>Tecnologias usadas:</strong> 
 <ul>
-    <li><img src="image-1"></li>
-    <li>![Alt text](image-2.png)</li>
-    <li>![Alt text](image-3.png)</li>
+    <li><img src="image-1.png" alt="logo HTML"></li>
+    <li><img src="image-2.png" alt="logo CSS"></li>
+    <li><img src="image-3.png" alt="logo JS"></li>
 </ul>
 </p>
