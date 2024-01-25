@@ -18,8 +18,8 @@
 
 <strong>Tecnologias usadas:</strong> 
 <ul>
-    <li><img src="image-1.png" alt="logo HTML" max-width="20px min-width="20px"></li>
-    <li><img src="image-2.png" alt="logo CSS" max-width="20px min-width="20px></li>
-    <li><img src="image-3.png" alt="logo JS" max-width="20px min-width="20px></li>
+    <li><img src="image-1.png" alt="logo HTML" width="20px"></li>
+    <li><img src="image-2.png" alt="logo CSS" width="20px"></li>
+    <li><img src="image-3.png" alt="logo JS" width="20px"></li>
 </ul>
 </p>
