@@ -1,117 +1,39 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Relatório de culto</title>
-    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/1940/1940906.png" type="image/x-icon">
-    <link rel="stylesheet" href="style.css">
+    <title>Gerenciamento de Culto</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <header>
-        <h1>Relatório de culto</h1>
-    </header>
-
     <main>
-        <section class="">
-            <h2>CONTAGEM DE PÚBLICO</h2>
+        <h1>Gerenciamento de Culto</h1>
 
-            <ul class="public">
+        <section class="list audience_count">
+            <h2>Contagem de público</h2>
+            <ul>
                 <li>
-                    <label for="">Adultos</label>
-                    <button type="button">-</button>
-                    <input type="number" name="num_adult" id="num_adult">
-                    <button type="button">+</button>
+                    <label for="">Adultos: </label>
                 </li>
-
                 <li>
-                    <label for="">Visitantes</label>
-                    <button type="button">-</button>
-                    <input type="number" name="num_visitors" id="num_visitors">
-                    <button type="button">+</button>
+                    <label for="">Visitantes: </label>
                 </li>
-
                 <li>
-                    <label for="">Servos</label>
-                    <button type="button">-</button>
-                    <input type="number" name="num_servants" id="num_servants">
-                    <button type="button">+</button>
+                    <label for="">Crianças salão: </label>
                 </li>
-
                 <li>
-                    <label for="">Crianças</label>
-                    <button type="button">-</button>
-                    <input type="number" name="num_child" id="num_child">
-                    <button type="button">+</button>
+                    <label for="">Kids: </label>
                 </li>
-
                 <li>
-                    <label for="total_public">Público total:</label>
-                    <span id="total_public">10</span>
-                </li>
-            </ul>
-
-            <h2>RELATÓRIO FINANCEIRO</h2>
-
-            <ul class="tithes_and_offerings">
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-2-reais_anverso-1.jpg" alt="R$2,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-5-reais_anverso-1.jpg" alt="R$5,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-10-reais_anverso-1.jpg" alt="R$10,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-20-reais_anverso.jpg" alt="R$20,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-50-reais_anverso.jpg" alt="R$50,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="https://cdn.ambientes.ambientebrasil.com.br/wp-content/uploads/2020/09/c%C3%A9dula-100-reais_anverso.jpg" alt="R$100,00" class="banknotes">
-                    <input type="number" name="amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="./images/coin.png" alt="R$200,00" class="banknotes">
-                    <input type="number" name=amount" id="amount2">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <img src="./images/card.png" alt="Cartão" width="50px" height="30px">
-                    <input type="number" name="" id="">
-                    <span>R$10,00</span>
-                </li>
-
-                <li>
-                    <label for="">Total: </label>
-                    <span>R$ 100,00</span>
+                    <label for="">Servos: </label>
                 </li>
             </ul>
         </section>
-    </main>
 
-    <footer>
-        <p>Powered by: <a href="https://br.linkedin.com/in/alex-santos-developer" target="_blank">Alex Santos</a>&copy;</p>
-    </footer>
+        <section class="list tithes_and_offerings">
+
+        </section>
+    </main>
 </body>
 </html>
